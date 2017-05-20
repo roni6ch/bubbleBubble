@@ -1,0 +1,8 @@
+This Project created by Roni Chabra.
+http://Roni.pe.hu
+
+Bubble Bubble
+=============
+
+Black Ball = Plus explode (bottom, top , left and right balls)
+White Ball = only current ball explode. 
